@@ -1,11 +1,11 @@
-# Investigate a Dataset (TMDb Movies) — Udacity Project
+# Investigate a Dataset (TMDb Movies): Udacity Project
 
 This repository contains my work for the Udacity Data Analyst Nanodegree project "Investigate a Dataset". The analysis explores The Movie Database (TMDb) metadata to study genre popularity over time, characteristics of high‑revenue films, profitability, and more.
 
 ## Contents
-- `Investigate_a_Dataset.ipynb` — main analysis notebook
-- `Investigate_a_Dataset.html` — exported HTML (optional)
-- `Database_TMDb_movie_data/tmdb-movies.csv` — dataset file
+- `Investigate_a_Dataset.ipynb`: main analysis notebook
+- `Investigate_a_Dataset.html`: exported HTML (optional)
+- `Database_TMDb_movie_data/tmdb-movies.csv`: dataset file
 
 ## Dataset
 TMDb movie metadata from Kaggle. Full details: [TMDb movie metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
